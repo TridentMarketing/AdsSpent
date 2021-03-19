@@ -8,7 +8,6 @@ import pandas as pd
 from datetime import datetime
 from requests import get,post
 
-
 def encode_agent_name(name):
     try:
 #         return name.encode('ascii', errors='ignore').strip()
