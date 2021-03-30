@@ -176,7 +176,7 @@ try:
                     adSpentElasticIndexing(es, payloadBulk, FbAdSpentIndex, FbAdSpentDoctype)
                     
                 else:
-                    print("Record already has been Dumped, ad account id: {} | spent: {} | date: {} \n").format(ad_account_id,spent,DateCreated)
+                    print("Records already has been Dumped, ad account id: {} | spent: {} | date: {} \n").format(ad_account_id,spent,DateCreated)
             except Exception as e:
                 print(str(e))
 except Exception as e:
