@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 *.ini
 *.db
 *.csv
@@ -16,4 +17,24 @@ env/
 airflow/
 
 dag_for_test.py
+=======
+*.ini
+*.db
+*.csv
+*.txt
+*.pyc
+*.xlsx
+*.ppk
+*.DS_Store
+.idea/
+.python-version
+.cache
+config.ini
+__pycache__
+Hop Eligible files/
+env/
+airflow/
+
+dag_for_test.py
+>>>>>>> 8c8a266957874922518f87c7cc9f7aecb3d72330
 hello.py
