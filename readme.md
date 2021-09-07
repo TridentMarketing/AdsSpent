@@ -22,5 +22,5 @@
 1. **Calculate Service Charges** : Slicebread 25% of Marketing Spent, Visibility Media 15% of Marketing Spent, Marketing Informatics 20% of Marketing Spent
 
 ##### **Elasticsearch Warehouse** : [Traindex]()
-##### **Facebook Campaigns Tag Fixing Data** [FbCampaign Tag Fixing]()
-##### **FB Campaigns Tag Linking Management API** [FastAPI]()
+##### **Facebook Campaigns Tag Fixing Data** [FbCampaign Tag Fixing](https://ff623d98ea8c4f30bf0d2b5def828a1a.us-east-1.aws.found.io:9243/app/discover#/?_g=(filters:!(),refreshInterval:(pause:!t,value:0),time:(from:'2021-09-06T04:00:00.000Z',to:'2021-09-07T03:30:00.000Z'))&_a=(columns:!(_source),filters:!(),index:'9a5d6010-0f4a-11ec-a900-6372c1cde672',interval:auto,query:(language:kuery,query:''),sort:!()))
+##### **FB Campaigns Tag Linking Management API** [FastAPI](https://fb-ad-campaigns-tag-fixing.travelresorts.info/docs)
